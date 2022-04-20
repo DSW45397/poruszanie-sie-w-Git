@@ -1,5 +1,5 @@
 # poruszanie-sie-w-Git
-description
+#description
 
 #!/bin/bash 
 
